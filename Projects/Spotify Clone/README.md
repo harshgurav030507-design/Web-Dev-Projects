@@ -12,3 +12,8 @@ Open `index.html` in your browser.
 
 ## Credits
 - Shradha Khapra (Apna College , Delta Batch), UI inspired by Spotify.
+
+## Features
+- Sidebar with Home, Search and Your Library
+- Album card rows (Recently Played, Trending, Featured Charts)
+- Music player bar with controls and progress bar

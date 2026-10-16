@@ -1,0 +1,10 @@
+{
+  "title": "Spotify Clone",
+  "description": "A static clone of the Spotify web player home page, built with HTML and CSS only.",
+  "author": {
+    "name": "Your Name",
+    "github": "harshgurav030507-design"
+  },
+  "tags": ["music", "ui-clone", "html-css"],
+  "entry": "index.html"
+}
